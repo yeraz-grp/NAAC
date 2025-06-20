@@ -500,7 +500,7 @@ main() {
     install_requirements || { quit_installation; return; }
     build_module         || { quit_installation; return; }
     clean_module         || { quit_installation; return; }
-    init_configuration
+    #init_configuration
     link_module
 
     end_message
