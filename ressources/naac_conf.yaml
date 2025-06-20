@@ -1,0 +1,13 @@
+language: "en"
+
+#theme:
+#  hostname: "green"
+#  title: "white"
+#  ok: "green"
+#  warning: "magenta"
+#  critical: "red"
+#  highlight: "yellow"
+
+#box:
+#  width: 50
+#  color: "yellow"

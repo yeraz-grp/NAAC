@@ -1,0 +1,20 @@
+
+"Project-Id-Version: tux_motd\n"
+"Report-Msgid-Bugs-To: jquintard@yeraz.fr\n"
+"POT-Creation-Date: 2025-06-09 16:00+0000\n"
+"PO-Revision-Date: 2025-06-09 16:15+0000\n"
+"Last-Translator: Jérôme Quintard <jquintard@yeraz.fr>\n"
+"Language-Team: French\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+# -------------------------------------------------
+# Section
+# -------------------------------------------------
+
+msgid "id"
+msgstr "trasnlation"
+
